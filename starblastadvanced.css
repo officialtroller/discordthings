@@ -10784,10 +10784,10 @@ header-2TLOnc .backButton-bSKWLe:hover {
 }
 
 
-.listItem-3SmSlK {
+.listItem-3SmSlK img {
     transition: transform 0.2s;
 }
 
-.listItem-3SmSlK:hover {
+.listItem-3SmSlK:hover img {
     transform: scale(1.1);
 }
