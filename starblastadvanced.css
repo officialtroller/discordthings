@@ -562,20 +562,6 @@ textarea,
     order: 1
 }
 
-.typeWindows-3ILlhq>.wordmark-3wYFg6:before {
-    content: "ClearVision";
-    color: rgba(255, 255, 255, .7);
-    font-size: 14px;
-    text-shadow: 0 0 3px #000
-}
-
-.typeWindows-3ILlhq>.wordmark-3wYFg6:after {
-    content: "v6.3.0";
-    color: rgba(255, 255, 255, .3);
-    font-family: var(--code-font);
-    font-size: 10px
-}
-
 .typeWindows-3ILlhq>.wordmark-3wYFg6>svg {
     filter: drop-shadow(0 0 5px var(--main-color));
     margin-top: 6px
@@ -1360,20 +1346,7 @@ textarea,
     transition: all .5s ease-in-out
 }
 
-.theme-dark .container-1CH86i:before {
-    content: "ClearVision";
-    right: 50%;
-    text-align: right;
-    transform: translateX(50%)
-}
 
-.theme-dark .container-1CH86i:after {
-    content: "v6.3.0";
-    left: 50%;
-    text-align: left;
-    opacity: 0;
-    transform: translateX(50%) rotateX(90deg)
-}
 
 .theme-dark .container-1CH86i:hover:before {
     margin-right: 1px;
