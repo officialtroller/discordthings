@@ -54,7 +54,7 @@
     --background-image-blur: 0px;
     --background-image-size: cover;
     --background-image-position: center;
-    --home-button-image: url(https://raw.githubusercontent.com/officialtroller/discordthings/main/home-icon.png);
+    --home-button-image: url('https://raw.githubusercontent.com/officialtroller/discordthings/main/discord_image.png');
     --home-button-size: cover;
     --home-button-position: center;
     --background-brightness: 100%;
