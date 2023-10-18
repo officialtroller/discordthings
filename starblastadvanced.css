@@ -10782,3 +10782,12 @@ header-2TLOnc .backButton-bSKWLe:hover {
     vertical-align: top;
     user-select: none
 }
+
+
+.listItem-3SmSlK {
+    transition: transform 0.2s;
+}
+
+.listItem-3SmSlK:hover {
+    transform: scale(1.1);
+}
