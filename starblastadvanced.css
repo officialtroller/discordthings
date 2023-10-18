@@ -10757,12 +10757,12 @@ header-2TLOnc .backButton-bSKWLe:hover {
 }
 
 
-.listItem-3SmSlK img {
+.childWrapper-1j_1ub img {
     transition: transform 0.2s;
     border-radius: 50%;
 }
 
-.listItem-3SmSlK:hover img {
+.childWrapper-1j_1ub:hover img {
     transform: scale(1.1);
     border-radius: 20px;
 }
