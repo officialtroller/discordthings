@@ -44,10 +44,6 @@
     --backdrop-grayscale: var(--background-grayscale);
     --backdrop-sepia: var(--background-sepia);
     --backdrop-blur: var(--background-blur);
-    --user-popout-image: var(--background-image);
-    --user-popout-position: var(--background-position);
-    --user-popout-size: var(--background-size);
-    --user-popout-repeat: var(--background-repeat);
     --user-popout-attachment: var(--background-attachment);
     --user-popout-brightness: var(--background-brightness);
     --user-popout-contrast: var(--background-contrast);
@@ -55,7 +51,7 @@
     --user-popout-invert: var(--background-invert);
     --user-popout-grayscale: var(--background-grayscale);
     --user-popout-sepia: var(--background-sepia);
-    --user-popout-blur: calc(var(--background-blur) + 3px);
+    --user-popout-blur: calc(var(--background-blur) + 1px);
     --user-popout-overlay: rgba(0, 0, 0, 0.65);
     --user-modal-image: var(--background-image);
     --user-modal-position: var(--background-position);

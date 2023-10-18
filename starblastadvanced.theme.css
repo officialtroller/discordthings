@@ -77,7 +77,7 @@
     /*Muted channel color  [default: rgba(255,255,255,0.1);]*/
 
     /* MODAL BACKDROP */
-    --backdrop-overlay: rgba(0, 0, 0, 0.8);
+    --backdrop-overlay: rgba(0, 0, 0, 0.6);
     /* modal backdrop overlay color/gradient [default: rgba(0, 0, 0, 0.8)] */
     --backdrop-image: var(--background-image);
     /* modal backdrop image (link must be HTTPS) [default: var(--background-image)] */
