@@ -10759,6 +10759,7 @@ header-2TLOnc .backButton-bSKWLe:hover {
 
 .listItem-3SmSlK img {
     transition: transform 0.2s;
+    border-radius: 50%;
 }
 
 .listItem-3SmSlK:hover img {
