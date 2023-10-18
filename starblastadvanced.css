@@ -72,7 +72,7 @@
     --user-modal-grayscale: var(--background-grayscale);
     --user-modal-sepia: var(--background-sepia);
     --user-modal-blur: calc(var(--background-blur) + 3px);
-    --home-icon: url('https://raw.githubusercontent.com/officialtroller/discordthings/main/discord_image.png');
+    --home-icon: url('https://raw.githubusercontent.com/officialtroller/discordthings/main/discordimage.svg');
     --home-position: center;
     --home-size: 40px;
     --popout-color: rgba(0, 0, 0, 0.8);
