@@ -10756,3 +10756,7 @@ header-2TLOnc .backButton-bSKWLe:hover {
     transform: scale(1.1);
     border-radius: 20px;
 }
+
+.childWrapper-1j_1ub>svg:active {
+    border-radius: 20px;
+}
