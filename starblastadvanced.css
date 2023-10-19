@@ -2063,8 +2063,7 @@ textarea,
 .channelTextArea-1VQBuV {
     background: rgba(0, 0, 0, .4);
     transition: all .15s ease-in-out;
-    border-color: var(--main-color);
-    border: 2px;
+    box-shadow: 0 0 2px 2px var(--main-color)
 }
 
 .channelTextArea-1VQBuV:focus-within {
