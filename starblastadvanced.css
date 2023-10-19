@@ -20,6 +20,7 @@
     --text-muted: rgb(114, 118, 125);
     --channels-width: 220px;
     --members-width: 240px;
+    --ping-color: #ff0000;
     --background-shading: 100%;
     --background-position: center;
     --background-size: cover;
@@ -2299,8 +2300,8 @@ textarea,
 .numberBadge-37OJ3S,
 .wrapper-2olG5t,
 .textBadge-1fdDPJ {
-    background: var(--main-color) !important;
-    box-shadow: 0 0 10px -3px var(--main-color), 0 0 0 1px var(--main-color);
+    background: var(--ping-color) !important;
+    box-shadow: 0 0 10px -3px var(--ping-color), 0 0 0 1px var(--ping-color);
     color: #fff;
     font-weight: 600;
     text-shadow: 0 1px 0 rgba(0, 0, 0, .25);
@@ -2320,7 +2321,7 @@ textarea,
 .selected-1sf9UK .textBadge-1fdDPJ {
     background: #fff !important;
     box-shadow: none;
-    color: var(--main-color);
+    color: var(--ping-color);
     mix-blend-mode: screen
 }
 
