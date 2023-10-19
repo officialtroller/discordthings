@@ -947,7 +947,7 @@ textarea,
 
 .wrapper-NhbLHG.modeSelected-3DmyhH .link-1_kTxV:after {
     right: 0;
-    background: var(--main-color);
+    color: var(--channel-unread);
     animation: cv-channel-select .3s ease-in-out
 }
 
