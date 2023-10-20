@@ -10761,3 +10761,7 @@ header-2TLOnc .backButton-bSKWLe:hover {
 .childWrapper-1j_1ub>svg:active {
     border-radius: 20px;
 }
+
+.vc-addon-card {
+    background-color: teal;
+}
