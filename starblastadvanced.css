@@ -5548,12 +5548,12 @@ code {
 }
 
 .theme-dark .mentioned-Tre-dv .mention.interactive {
-    background-color: rgba(255, 255, 255, .1);
+    background-color: rgba(2, 45, 100, 0.199);
     color: var(--main-color)
 }
 
 .theme-dark .mentioned-Tre-dv .mention.interactive:hover {
-    background-color: rgba(255, 255, 255, .2);
+    background-color: rgba(2, 45, 100, 0.4);
     color: var(--hover-color);
     text-decoration: none
 }
