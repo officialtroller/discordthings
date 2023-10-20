@@ -2636,7 +2636,7 @@ textarea,
 
 .chat-9g_3Xj .scrollerBase-1Pkza4::-webkit-scrollbar-track-piece,
 .membersWrap-3GwLFp .scrollerBase-1Pkza4::-webkit-scrollbar-track-piece {
-    background-color: rgba(0, 0, 0, .3) !important
+    background-color: rgba(0, 0, 0, .1) !important
 }
 
 textarea::-webkit-scrollbar {
@@ -9849,13 +9849,13 @@ header-2TLOnc .backButton-bSKWLe:hover {
 }
 
 .upsellOverlayContainer-3NMgTS {
-    background: rgba(0, 0, 0, .4);
+    background: rgba(0, 0, 0, .2);
     border-color: #ff73fa
 }
 
 .theme-dark .upsellOverlay-3sCO8V,
 .upsellContainer-TwfTaF {
-    background: rgba(0, 0, 0, .4)
+    background: rgba(0, 0, 0, .2)
 }
 
 .container-2WMFjc,
