@@ -90,7 +90,7 @@
   /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
   --home-position: center;
   /* home button icon position [default: center] */
-  --home-size: 40px;
+  --home-size: 50px;
   /* home button icon size [default: 40px] */
 
   /* CHANNEL COLORS */
