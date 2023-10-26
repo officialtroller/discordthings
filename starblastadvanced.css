@@ -2878,10 +2878,6 @@ textarea::-webkit-scrollbar {
     background: var(--home-icon) var(--home-position)/var(--home-size) no-repeat
 }
 
-.childWrapper__01b9c>svg:hover {
-    border-radius: 30px;
-}
-
 .childWrapper__01b9c>svg>path {
     display: none
 }
