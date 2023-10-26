@@ -85,14 +85,6 @@
   --background-blur: 0px;
   /* app background blur [default: 0px] */
 
-  /* HOME BUTTON ICON */
-  --home-icon: url(https://discord.com/assets/99a06ba1ed69e7a673b0e71772480bb4.webp);
-  /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
-  --home-position: center;
-  /* home button icon position [default: center] */
-  --home-size: 50px;
-  /* home button icon size [default: 40px] */
-
   /* CHANNEL COLORS */
   --channel-unread: rgb(255, 255, 255);
   ;
