@@ -1001,7 +1001,7 @@ textarea,
 }
 
 .unread__48cf4 {
-    display: none
+    display: block
 }
 
 .live_b195a5 {
@@ -2875,7 +2875,8 @@ textarea::-webkit-scrollbar {
 .childWrapper__01b9c>svg {
     width: 100%;
     height: 100%;
-    background: var(--home-icon) var(--home-position)/var(--home-size) no-repeat
+    background: var(--home-icon) var(--home-position) no-repeat;
+    size: 50px
 }
 
 .childWrapper__01b9c>svg>path {
