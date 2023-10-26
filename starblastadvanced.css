@@ -75,7 +75,7 @@
     --user-modal-blur: calc(var(--background-blur) + 3px);
     --home-icon: url(https://discord.com/assets/99a06ba1ed69e7a673b0e71772480bb4.webp);
     --home-position: center;
-    --home-size: 40px;
+    --home-size: 50px;
     --popout-color: rgba(0, 0, 0, 0.8);
     --modal-color: rgba(0, 0, 0, 0.5);
     --bd-blue: var(--main-color);
@@ -2910,7 +2910,7 @@ textarea::-webkit-scrollbar {
 
 .wrapper_d281dd:hover .childWrapper__01b9c,
 .wrapper_d281dd.selected_f5ec8e .childWrapper__01b9c {
-    background-color: var(--main-color);
+    background-color: transparent;
     color: #fff
 }
 
